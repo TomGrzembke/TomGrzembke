@@ -10,7 +10,6 @@
 Currently majoring in game design in schwerin (germany).
 I'm in love with rogue likes/lites and just finished working on my third team projekt game Luminosity!
 
-Skills: <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p> Python GDScript
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomgrzembke&theme=dark&show_icons=true)
