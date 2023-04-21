@@ -23,4 +23,4 @@ I'm in love with rogue likes/lites and just finished working on my third team pr
 
 [<img src='https://user-images.githubusercontent.com/107462457/233641546-7d53987e-dbf8-452d-83da-58e4ff66cade.png' alt='LinkedIn' height='35'>](https://www.linkedin.com/in/tom-grzembke-33701a262/)
 
-
+[<img src='https://user-images.githubusercontent.com/107462457/233642277-986dc149-03f5-4bbd-a5f6-c75ea4d0b730.png' alt='Itch.io' height='35'>](https://tom-grzembke.itch.io)
