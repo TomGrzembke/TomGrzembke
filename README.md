@@ -11,4 +11,4 @@ Currently majoring in game design in schwerin (germany) and my passion is game E
 I'm in love with rogue likes/lites and just finished working on my third team projekt game Luminosity!
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=tomgrzembke)](https://github.com/tomgrzembke/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomgrzembke&theme=transparent&show_icons=true)
+![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomgrzembke&theme=transparent&show_icons=true)](https://github.com/tomgrzembke/github-readme-stats)
