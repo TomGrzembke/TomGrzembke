@@ -19,4 +19,4 @@ I'm in love with rogue likes/lites and just finished working on my third team pr
 
 [<img src='https://user-images.githubusercontent.com/107462457/233630027-2889ad2a-1276-44fc-ac91-10a69f437355.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UCwj4prmUrsabkZElNnRQOsw)
 
-[<img src='https://user-images.githubusercontent.com/107462457/233637503-0a821128-3b31-4288-95a1-d90b87411f64.png' alt='Gmail' height='25'>](grzembketom@gmail.com)
+[<img src='[https://user-images.githubusercontent.com/107462457/233637503-0a821128-3b31-4288-95a1-d90b87411f64.png](https://user-images.githubusercontent.com/107462457/233640125-59ab789c-3b45-4d44-a566-2a0cbb1111b9.png)' alt='Linktree' height='25'>](http://linktr.ee/tomgrzembke)
