@@ -5,7 +5,7 @@
 - 📫 How to reach me: http://linktr.ee/tomgrzembke
 - 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
 - 😾 Pronouns: He/Him
-- 📗 Languages: C# Python GDScript
+- 📗 Languages: C# GDScript/Python
 
 
 # I'm an aspiring game engineer
