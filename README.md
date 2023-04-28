@@ -1,7 +1,7 @@
 ![GithubTommyBanner](https://user-images.githubusercontent.com/107462457/233647985-82073d3e-8107-4ad0-a443-072203751034.png)
 
 - 🔭 I’m currently working on my fourth semesterproject: Project Cistron
-- 🌱 Learning Unity and C#
+- 🌱 Learning Unity and C# aand Ink
 - 📫 How to reach me: http://linktr.ee/tomgrzembke
 - 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
 - 😾 Pronouns: He/Him
