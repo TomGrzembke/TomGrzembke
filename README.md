@@ -1,4 +1,5 @@
-![GithubTommyBannerII](https://user-images.githubusercontent.com/107462457/236680576-b8bd8651-4c48-4c62-95b2-03aafd4fb88d.png)
+![GithubTommyBannerII](https://user-images.githubusercontent.com/107462457/236689027-8b4fa711-6332-4859-a344-820cf2f46b27.png)
+
 # Passionate Scripter
 Currently majoring in game design in schwerin (germany).
 I'm in love with rogue likes/lites and just finished working on my third team projekt game Luminosity!
