@@ -1,4 +1,7 @@
 ![GithubTommyBannerII](https://user-images.githubusercontent.com/107462457/236680576-b8bd8651-4c48-4c62-95b2-03aafd4fb88d.png)
+# I'm an aspiring game engineer
+Currently majoring in game design in schwerin (germany).
+I'm in love with rogue likes/lites and just finished working on my third team projekt game Luminosity!
 
 - 🔭 I’m currently working on my fourth semesterproject: Project Cistron
 - 📫 How to reach me: http://linktr.ee/tomgrzembke
@@ -8,11 +11,7 @@
 - 📗 Languages: C# GDScript/Python
 - 🌱 Learning: Ink
 
-
-# I'm an aspiring game engineer
-Currently majoring in game design in schwerin (germany).
-I'm in love with rogue likes/lites and just finished working on my third team projekt game Luminosity!
-
+#
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomgrzembke&theme=dark&show_icons=true)
 
 [<img src='https://user-images.githubusercontent.com/107462457/233640564-e21f471e-2cc8-4067-bf61-2f847264d485.png' alt='Linktree' height='35'>](http://linktr.ee/tomgrzembke)
