@@ -4,7 +4,8 @@ Currently majoring in game design in schwerin (germany).
 I'm in love with rogue likes/lites and just finished working on my third team projekt game Luminosity!
 
 - 🔭 I’m currently working on my fourth semesterproject: Project Cistron
-- 📫 How to reach me: http://linktr.ee/tomgrzembke
+- 📫 How to reach me: grzembketom@gmail.com
+- 🌳Linktree: http://linktr.ee/tomgrzembke
 - 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
 - 😾 Pronouns: He/Him
 - 🎮 Game Engines: Unity Engine, Godot
