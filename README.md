@@ -6,7 +6,7 @@
 - 😾 Pronouns: He/Him
 - 🎮 Game Engines: Unity Engine, Godot
 - 📗 Languages: C# GDScript/Python
-- 🌱 Learning: C# and Ink
+- 🌱 Learning: Ink
 
 
 # I'm an aspiring game engineer
