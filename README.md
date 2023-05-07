@@ -1,4 +1,4 @@
-![GithubTommyBanner](https://user-images.githubusercontent.com/107462457/233647985-82073d3e-8107-4ad0-a443-072203751034.png)
+![GithubTommyBanner](https://user-images.githubusercontent.com/107462457/236680464-38e8940c-ce37-4371-8b1f-9c53a843b1c4.png)
 
 - 🔭 I’m currently working on my fourth semesterproject: Project Cistron
 - 🌱 Learning Unity and C# aand Ink
