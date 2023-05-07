@@ -1,7 +1,7 @@
 ![GithubTommyBannerII](https://user-images.githubusercontent.com/107462457/236689027-8b4fa711-6332-4859-a344-820cf2f46b27.png)
 
 # Passionate Scripter
-Currently majoring in game design in schwerin (germany).
+Currently majoring in game design in Schwerin (Germany).
 I'm in love with rogue likes/lites and just finished working on my third team project game Luminosity!
 
 - 💼 Download my Portfolio here: https://github.com/TomGrzembke/Portfolio
