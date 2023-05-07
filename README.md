@@ -6,8 +6,9 @@ I'm in love with rogue likes/lites and just finished working on my third team pr
 
 - 💼 Download my Portfolio here: https://github.com/TomGrzembke/Portfolio
 - 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
-- 🌳Linktree: http://linktr.ee/tomgrzembke
+- 🌳 Linktree: http://linktr.ee/tomgrzembke
 - 📫 Email: grzembketom@gmail.com
+- 🗒️ 3D Projects: https://sketchfab.com/tom.grzembke
 #
 - 🔭 I’m currently working on my fourth semester project: Project Cistron
 - 🎮 Game Engines: Unity Engine, Godot
