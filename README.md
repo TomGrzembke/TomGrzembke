@@ -5,7 +5,7 @@ Currently majoring in game design in Schwerin (Germany).
 I'm in love with rogue likes/lites and just finished working on my third team project game Luminosity!
 
 - 💼 Download my Portfolio here: https://github.com/TomGrzembke/Portfolio
-- 🔭 I’m currently working on my fourth semesterproject: Project Cistron
+- 🔭 I’m currently working on my fourth semester project: Project Cistron
 - 📫 How to reach me: grzembketom@gmail.com
 - 🌳Linktree: http://linktr.ee/tomgrzembke
 - 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
