@@ -5,11 +5,10 @@ Currently majoring in game design in Schwerin (Germany).
 I'm in love with rogue likes/lites and just finished working on my third team project game Luminosity!
 
 - 💼 Download my Portfolio here: https://github.com/TomGrzembke/Portfolio
+- 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
+- 🌳Linktree: http://linktr.ee/tomgrzembke
 - 🔭 I’m currently working on my fourth semester project: Project Cistron
 - 📫 How to reach me: grzembketom@gmail.com
-- 🌳Linktree: http://linktr.ee/tomgrzembke
-- 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
-- 😾 Pronouns: He/Him
 - 🎮 Game Engines: Unity Engine, Godot
 - 📗 Languages: C# GDScript/Python
 - 🌱 Learning: Ink
