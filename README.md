@@ -2,7 +2,7 @@
 
 # Passionate Scripter
 Currently majoring in game design in schwerin (germany).
-I'm in love with rogue likes/lites and just finished working on my third team projekt game Luminosity!
+I'm in love with rogue likes/lites and just finished working on my third team project game Luminosity!
 
 - 💼 Download my Portfolio here: https://github.com/TomGrzembke/Portfolio
 - 🔭 I’m currently working on my fourth semesterproject: Project Cistron
