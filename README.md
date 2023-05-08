@@ -18,9 +18,8 @@ I'm in love with rogue likes/lites and just finished working on my third team pr
 #
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomgrzembke&theme=dark&show_icons=true)
 
-[<img src='https://user-images.githubusercontent.com/107462457/233640564-e21f471e-2cc8-4067-bf61-2f847264d485.png' alt='Linktree' height='35'>](http://linktr.ee/tomgrzembke)
-[<img src='https://user-images.githubusercontent.com/107462457/233644118-25626678-70bb-4357-8242-59affd1666ba.png' alt='Itch.io' height='35'>](https://tom-grzembke.itch.io)
-[<img src='https://user-images.githubusercontent.com/107462457/233630027-2889ad2a-1276-44fc-ac91-10a69f437355.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UCwj4prmUrsabkZElNnRQOsw)
-[<img src='https://user-images.githubusercontent.com/107462457/233641546-7d53987e-dbf8-452d-83da-58e4ff66cade.png' alt='LinkedIn' height='35'>](https://www.linkedin.com/in/tom-grzembke-33701a262/)
-[<img src='https://user-images.githubusercontent.com/107462457/233644793-8ed34ff6-fb1b-46b7-9389-cf76f06f39f5.png' height='40'>](https://twitter.com/https://twitter.com/tommyaturwindow)
-           
+[<img src='https://user-images.githubusercontent.com/107462457/236709926-eb4a91da-cde6-41db-973c-8803be4f8f8a.png' alt='Linktree' height='35'>](http://linktr.ee/tomgrzembke)
+[<img src='https://user-images.githubusercontent.com/107462457/236710107-7cd28589-c4e8-4797-bfc9-600ba72787a5.png' alt='Itch.io' height='35'>](https://tom-grzembke.itch.io)
+[<img src='https://user-images.githubusercontent.com/107462457/233630027-2889ad2a-1276-44fc-ac91-10a69f437355.png' alt='Youtube' height='40'>](https://www.youtube.com/channel/UCwj4prmUrsabkZElNnRQOsw)
+[<img src='https://user-images.githubusercontent.com/107462457/236710152-5a78f4ba-5d5f-4804-9fa8-e523d9386e11.png' alt='LinkedIn' height='35'>](https://www.linkedin.com/in/tom-grzembke-33701a262/)
+[<img src='https://user-images.githubusercontent.com/107462457/236710158-0e3b4d12-6e67-4a59-bfaf-e0a07c4b451c.png' alt = 'Twitter' height='40'>](https://twitter.com/https://twitter.com/tommyaturwindow)
