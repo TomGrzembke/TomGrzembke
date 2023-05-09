@@ -22,3 +22,11 @@ I'm in love with rogue likes/lites and just finished working on my third team pr
 [<img src='https://user-images.githubusercontent.com/107462457/236710158-0e3b4d12-6e67-4a59-bfaf-e0a07c4b451c.png' alt = 'Twitter' height='40'>](https://twitter.com/https://twitter.com/tommyaturwindow)
 #
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomgrzembke&theme=dark&show_icons=true)
+
+![image](https://user-images.githubusercontent.com/107462457/237038937-454e6ecb-d5e0-44ce-af3d-a5b0c5490e2e.png)
+![image](https://user-images.githubusercontent.com/107462457/237039135-fb5b60e6-99b6-4947-8617-090e78bdf2dc.png)
+![image](https://user-images.githubusercontent.com/107462457/237039215-d4389c36-61c5-46a6-9287-c1103dacb6e6.png)
+![image](https://user-images.githubusercontent.com/107462457/237039267-c150afec-eff7-45ae-a431-c96fd136a716.png)
+![image](https://user-images.githubusercontent.com/107462457/237039324-29821e2c-d069-457a-9dad-fc612064c100.png)
+![image](https://user-images.githubusercontent.com/107462457/237039365-d912894f-ac78-4ad8-a026-9ffeb5aadca6.png)
+![image](https://user-images.githubusercontent.com/107462457/237039487-8155e6dc-1202-44a4-933c-795a99d9dd24.png)
