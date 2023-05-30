@@ -25,8 +25,6 @@ I'm in love with rogue likes/lites and just finished working on my third team pr
 - <img src='https://github.com/TomGrzembke/TomGrzembke/assets/107462457/45bd5761-af47-482c-9c66-d24e8f8eb1e2' alt = 'Unity' height='25'> Unity plugins I've worked with: Input System, URP, Cinemachine, Navmesh, Ink , Fmod
 - <img src='https://github.com/TomGrzembke/TomGrzembke/assets/107462457/5a4c19bb-2494-4926-9113-5185cf26a164' alt = 'Godot' height='25'> Godot plugins I've worked with: Dialogic
 
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomgrzembke&theme=dark&show_icons=true)
-
 ![image](https://user-images.githubusercontent.com/107462457/237038937-454e6ecb-d5e0-44ce-af3d-a5b0c5490e2e.png)
 ![image](https://user-images.githubusercontent.com/107462457/237039135-fb5b60e6-99b6-4947-8617-090e78bdf2dc.png)
 ![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/35029a26-19f0-4aa2-82ba-76a512a34a8d)
