@@ -13,8 +13,8 @@ I'm in love with rogue likes/lites and just finished working on my third team pr
 #
 - 🔭 I’m currently working on my fourth semester project: Project Cistron
 - 🎮 Game Engines: Unity Engine, Godot
-- 📗 Languages: C# GDScript/Python
-- 🌱 Learning: Ink
+- 📗 Languages: C# GDScript/Python Ink
+- 🌱 Learning: Unreal Engine
 
 [<img src='https://user-images.githubusercontent.com/107462457/236709926-eb4a91da-cde6-41db-973c-8803be4f8f8a.png' alt='Linktree' height='35'>](http://linktr.ee/tomgrzembke)
 [<img src='https://user-images.githubusercontent.com/107462457/236710107-7cd28589-c4e8-4797-bfc9-600ba72787a5.png' alt='Itch.io' height='35'>](https://tom-grzembke.itch.io)
