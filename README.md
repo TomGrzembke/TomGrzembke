@@ -1,6 +1,7 @@
-![GithubTommyBannerIV](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/131dcd18-42ec-4851-b098-1c441d9c92ec)
+![GithubTommyBannerIV](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/c0932737-c1d3-4d68-8f9c-72c45f981884)
 
 # Passionate Scripter
+
 Currently majoring in game design in Schwerin (Germany).
 I'm in love with rogue likes/lites and just finished working on my fourth team project game Project CISTRON!
 
