@@ -33,7 +33,8 @@ I'm in love with rogue likes/lites and just finished working on my fourth team p
 ![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/34b532f9-e877-42fe-8b3c-416ce0123a71)
 ![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/245efdf3-c3a0-4806-b92e-13785f2c4314)
 ![image](https://user-images.githubusercontent.com/107462457/237039487-8155e6dc-1202-44a4-933c-795a99d9dd24.png)
-![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/b5712cd3-59c7-4c5a-b0ec-51e8d5aa7335)
+![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/4c19c2c2-519f-4da6-846d-8c22ca4f1bc4)
+
 
 
 
