@@ -12,7 +12,7 @@ I'm in love with rogue likes/lites and just finished working on my fourth team p
 - 👥 LinkedIn: https://www.linkedin.com/in/tom-grzembke-845b79266
 - 🗒️ 3D Projects: https://sketchfab.com/tom.grzembke
 #
-- 🔭 I’m currently working on the weltfern team in hamburg
+- 🔭 I’m currently working on my 5th semesterproject 
 - 🎮 Game Engines: Unity Engine, Godot
 - 📗 Languages: C# GDScript/Python Ink
 - 🌱 Learning: Unreal Engine
