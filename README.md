@@ -15,7 +15,9 @@ I'm in love with rogue likes/lites and just finished my internship at weltfern!
 - 🔭 I’m currently working on my 5th semesterproject 
 - 🎮 Game Engines: Unity Engine, Godot
 - 📗 Languages: C#, GDScript/Python, Ink
-- 🌱 Learning: 2D rigging
+- 🌱 Learning: 2D rigging, [see my pipeline](https://docs.google.com/document/d/1906EhUxplktzM2QcxqFO3ovDj9Oj6HJ_dC-tdDHIh00/edit?usp=sharing) 
+
+
 
 [<img src='https://user-images.githubusercontent.com/107462457/236709926-eb4a91da-cde6-41db-973c-8803be4f8f8a.png' alt='Linktree' height='35'>](http://linktr.ee/tomgrzembke)
 [<img src='https://user-images.githubusercontent.com/107462457/236710107-7cd28589-c4e8-4797-bfc9-600ba72787a5.png' alt='Itch.io' height='35'>](https://tom-grzembke.itch.io)
