@@ -23,7 +23,7 @@ I'm in love with rogue likes/lites and just finished my internship at weltfern!
 [<img src='https://user-images.githubusercontent.com/107462457/236710152-5a78f4ba-5d5f-4804-9fa8-e523d9386e11.png' alt='LinkedIn' height='35'>](https://www.linkedin.com/in/tom-grzembke-845b79266)
 [<img src='https://user-images.githubusercontent.com/107462457/236710158-0e3b4d12-6e67-4a59-bfaf-e0a07c4b451c.png' alt = 'Twitter' height='40'>](https://twitter.com/tommyaturwindow)
 #
-- <img src='https://github.com/TomGrzembke/TomGrzembke/assets/107462457/45bd5761-af47-482c-9c66-d24e8f8eb1e2' alt = 'Unity' height='25'> Unity plugins I've worked with: Input System, URP, Cinemachine, Navmesh, Ink , Fmod
+- <img src='https://github.com/TomGrzembke/TomGrzembke/assets/107462457/45bd5761-af47-482c-9c66-d24e8f8eb1e2' alt = 'Unity' height='25'> Unity plugins I've worked with: Input System, URP, Cinemachine, Navmesh, Ink , Fmod and Mybox
 - <img src='https://github.com/TomGrzembke/TomGrzembke/assets/107462457/5a4c19bb-2494-4926-9113-5185cf26a164' alt = 'Godot' height='25'> Godot plugins I've worked with: Dialogic
 
 ![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/75ffaf65-e613-47a3-8c46-fc60aa89a05b)
