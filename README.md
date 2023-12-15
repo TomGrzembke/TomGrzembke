@@ -34,8 +34,4 @@ I'm in love with rogue likes/lites and just finished my internship at weltfern!
 ![image](https://user-images.githubusercontent.com/107462457/237039324-29821e2c-d069-457a-9dad-fc612064c100.png)
 ![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/34b532f9-e877-42fe-8b3c-416ce0123a71)
 ![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/245efdf3-c3a0-4806-b92e-13785f2c4314)
-![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/4c19c2c2-519f-4da6-846d-8c22ca4f1bc4)
-
-
-
-
+![image](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/7a48c10e-8123-4f5d-ad76-89a1f29c9cf3)
