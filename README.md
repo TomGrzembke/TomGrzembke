@@ -3,7 +3,7 @@
 # Passionate Scripter
 
 Currently majoring in game design in Schwerin (Germany).
-I'm in love with rogue likes/lites and just finished my internship at weltfern!
+I'm in love with rogue likes/lites!
 
 - 💼 Download my Portfolio here: https://github.com/TomGrzembke/Portfolio
 - 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
