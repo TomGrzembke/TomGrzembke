@@ -1,5 +1,3 @@
-![GithubTommyBannerIV](https://github.com/TomGrzembke/TomGrzembke/assets/107462457/c0932737-c1d3-4d68-8f9c-72c45f981884)
-
 # Passionate Scripter
 
 Currently majoring in game design in Schwerin (Germany).
