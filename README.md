@@ -10,7 +10,7 @@ I'm in love with rogue likes/lites!
 - 👥 LinkedIn: https://www.linkedin.com/in/tom-grzembke-845b79266
 - 🗒️ 3D Projects: https://sketchfab.com/tom.grzembke
 #
-- 🔭 I’m currently working on my 5th semesterproject 
+- 🔭 I’m currently planning my 6th semesterproject 
 - 🎮 Game Engines: Unity Engine, Godot
 - 📗 Languages: C#, GDScript/Python, Ink
 - 🌱 Learning: 2D rigging, [see my pipeline](https://docs.google.com/document/d/1906EhUxplktzM2QcxqFO3ovDj9Oj6HJ_dC-tdDHIh00/edit?usp=sharing) 
