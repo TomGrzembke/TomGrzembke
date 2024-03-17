@@ -4,7 +4,6 @@ Currently majoring in game design in Schwerin (Germany).
 I'm in love with rogue likes/lites!
 
 - 👾 See my work: [tom-grzembke.itch.io](https://tom-grzembke.itch.io)
-- 💼 Download my Portfolio here: https://github.com/TomGrzembke/Portfolio
 - 🌳 Linktree: http://linktr.ee/tomgrzembke
 - 📫 Email: grzembketom@gmail.com
 - 👥 LinkedIn: https://www.linkedin.com/in/tom-grzembke-845b79266
