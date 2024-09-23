@@ -1,9 +1,9 @@
 # Passionate Scripter
 
-Currently majoring in game design in Schwerin (Germany).
+Majored in game design.
 I'm in love with rogue likes/lites!
 
-- 🔭 I’m currently planning my 6th semesterproject, Qinu: https://tom-grzembke.itch.io/testenvironment
+- 🔭 Finished my 6th semesterproject, Qinu: https://tom-grzembke.itch.io/testenvironment
 - 🎮 Game Engines: Unity Engine, Godot
 - 📗 Languages: C#, GDScript/Python, Ink
 - 🌱 Learning: 2D rigging, [see my pipeline](https://docs.google.com/document/d/1906EhUxplktzM2QcxqFO3ovDj9Oj6HJ_dC-tdDHIh00/edit?usp=sharing) 
