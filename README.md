@@ -7,8 +7,8 @@ I'm in love with roguelikes/lites!
 
 
 - ✨ Visit my [Website]( https://tommy-dev.weebly.com/)
-- 🔭 Finished my 6th semester project, [Qinu](https://tom-grzembke.itch.io/qinu)
 - 🗒️ Visit my [Blog](https://tommygamedev.hashnode.dev/?source=top_nav_blog_home)
+- 🔭 Finished my 6th semester project, [Qinu](https://tom-grzembke.itch.io/qinu)
 - 🎮 Game Engines: Unity Engine, Godot
 - 📗 Languages: C#, GDScript/Python, Ink
 #
