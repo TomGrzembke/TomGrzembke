@@ -1,8 +1,8 @@
 # Passionate Scripter
-[<img src='https://user-images.githubusercontent.com/107462457/236710107-7cd28589-c4e8-4797-bfc9-600ba72787a5.png' alt='Itch.io' height='35'>](https://tom-grzembke.itch.io)
-[<img src='https://user-images.githubusercontent.com/107462457/236710152-5a78f4ba-5d5f-4804-9fa8-e523d9386e11.png' alt='LinkedIn' height='35'>](https://www.linkedin.com/in/tom-grzembke-845b79266)
-[<img src='https://github.com/user-attachments/assets/86799838-f426-4863-a986-feb2643f5395' alt='Website' height='35'>](https://tommy-dev.weebly.com/)
-[<img src='https://github.com/user-attachments/assets/270fbf37-93fd-48ad-abbc-bb8753de260a' alt='Blog' height='35'>](https://tommygamedev.hashnode.dev/?source=top_nav_blog_home)
+[<img src='https://user-images.githubusercontent.com/107462457/236710107-7cd28589-c4e8-4797-bfc9-600ba72787a5.png' alt='Itch.io' height='40'>](https://tom-grzembke.itch.io)
+[<img src='https://user-images.githubusercontent.com/107462457/236710152-5a78f4ba-5d5f-4804-9fa8-e523d9386e11.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/tom-grzembke-845b79266)
+[<img src='https://github.com/user-attachments/assets/027271cd-922d-40e3-bd3f-38e112be1847' alt='Website' height='40'>](https://tommy-dev.weebly.com/)
+[<img src='https://github.com/user-attachments/assets/441b8890-414d-4a1c-b097-596e46c047d2' alt='Blog' height='40'>](https://tommygamedev.hashnode.dev/?source=top_nav_blog_home)
 
 Majored in game design.
 I'm in love with roguelikes/lites!
