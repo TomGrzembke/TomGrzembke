@@ -6,7 +6,7 @@
 Majored in game design.
 I'm in love with roguelikes/lites!
 
-- 🔭 Finished my 6th semester project, [Qinu](https://tom-grzembke.itch.io/qinu)
+- 🔭 Finished my 6th semester project, [Qinu](https://github.com/TomGrzembke/Qinu)
 - 🎮 Game Engines: Unity Engine, Godot
 - 📗 Languages: C#, GDScript/Python, Ink
 #
