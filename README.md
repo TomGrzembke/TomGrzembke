@@ -1,8 +1,8 @@
 # Game Engineer Generalist
 
-- Majored in Game Design at [DSS](https://designschule.de/).
-- Majoring in Game Engineering at [S4G](https://www.school4games.net/).
-- Working at [Drengr Games](https://www.drengrgames.com/).
+- Majored in Game Design at [DSS](https://designschule.de/)
+- Majoring in Game Engineering at [S4G](https://www.school4games.net/)
+- Working at [Drengr Games](https://www.drengrgames.com/)
 
 <div align="center">
   
