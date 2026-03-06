@@ -1,8 +1,8 @@
 # Game Engineer Generalist
 
-Majored in Game Design at DSS.
-Majoring in Game Engineering at S4G.
-Working at Drengr Games.
+- Majored in Game Design at DSS.
+- Majoring in Game Engineering at S4G.
+- Working at Drengr Games.
 
 <div align="center">
   
