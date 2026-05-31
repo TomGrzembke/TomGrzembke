@@ -6,7 +6,8 @@ Hey, Thanks for stopping by!
 <div align="center">
   
 Project | Genre | Tools | Time | Release | Link |
---- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- | --- | 
+[Unity Mobile Energy Optimization](https://github.com/TomGrzembke/UnityTemplateLowPower) | Paper | Unity, Google Sheets | 9 weeks | 2026 | [Read here](https://github.com/TomGrzembke/UnityTemplateLowPower) | 
 Skippebble | 3D Re-action-Game | Unreal, Blueprints only | 10 weeks | 2026 | [Play here](https://s4g.itch.io/skippebble) | 
 [Zugzwang](https://github.com/TomGrzembke/ZugZwang) | 3D Mobile Chess-Swiper | Unity, C# | 12 weeks | 2025 | [Play here](https://play.google.com/store/apps/details?id=net.limitedheadspace.zugzwang) | 
 [Yokai Parade](https://github.com/TomGrzembke/yokai-parade) | 2D Platformer | Godot, GDScript, GLSL | 10 weeks | 2025 | [Play here](https://s4g.itch.io/yokai-parade) | 
