@@ -1,5 +1,5 @@
 Hey, Thanks for stopping by!
-# Game Engineer Generalist
+# Game Engineering Generalist
 - Majored in Game Design at [DSS](https://designschule.de/).
 - Majoring in Game Engineering at [S4G](https://www.school4games.net/).
 #
