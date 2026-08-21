@@ -3,6 +3,8 @@ Hey, Thanks for stopping by!
 - Majored in Game Design at [DSS](https://designschule.de/).
 - Majoring in Game Engineering at [S4G](https://www.school4games.net/).
 #
+
+Feel free to click on Project Page links for a deep dive for the games^^ 
 <div align="center">
   
 Icon | Project Page | Genre | Tools | Time | Release | Link |
