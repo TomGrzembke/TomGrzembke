@@ -9,17 +9,17 @@ Click on the Project Page links for a deep dive into my tasks in the games featu
   
 | Icon | Project Page | Genre | Tools |
 | :---: | :--- | :--- | :--- |
-| <p align="center"><img width="102" height="96" alt="image" src="https://github.com/user-attachments/assets/6317719c-af0d-4c43-b820-e7c3908e68dd" /></p> | 📃 [Boomy World](https://github.com/TomGrzembke/BoomyWorld-Showcase/tree/main)| 2D Action Bomber | Unity, Poki |
-| <p align="center"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/47b478c7-0fa8-46f5-a534-3d029c3ab444" /></p>| 📃 [Nordic Towers](https://github.com/TomGrzembke/NordicTowers-Showcase/tree/main)| 2D Tetrislite | Unity |
-| - | 📃 [Unity Mobile Energy Optimization](https://github.com/TomGrzembke/UnityTemplateLowPower)| Paper | Unity, Google Sheets | 
+| <p align="center"><img width="102" height="96" alt="image" src="https://github.com/user-attachments/assets/6317719c-af0d-4c43-b820-e7c3908e68dd" /></p> | 🔎 [Boomy World](https://github.com/TomGrzembke/BoomyWorld-Showcase/tree/main)| 2D Action Bomber | Unity, Poki |
+| <p align="center"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/47b478c7-0fa8-46f5-a534-3d029c3ab444" /></p>| 🔎 [Nordic Towers](https://github.com/TomGrzembke/NordicTowers-Showcase/tree/main)| 2D Tetrislite | Unity |
+| 📃 | 🔎 [Unity Mobile Energy Optimization](https://github.com/TomGrzembke/UnityTemplateLowPower)| Paper | Unity, Google Sheets | 
 | <p align="center"><img width="280" height="127" alt="SkippebbleFontMainMenu" src="https://github.com/user-attachments/assets/d676d9d3-146f-4f99-8db3-85c0e83e12de" /></p> | 🎮 [Skippebble](https://s4g.itch.io/skippebble)| 3D Re-action-Game | Unreal, Blueprints only | 
-| <p align="center"><img width="250" height="116" alt="Zugzwang_MainMenuBanner" src="https://github.com/user-attachments/assets/4c6c01c1-8e1f-46d5-9b7c-cbdd31c2d467" /></p>| 📃 [Zugzwang](https://github.com/TomGrzembke/ZugZwang)| 3D Mobile Chess-Swiper | Unity, C# |
-| <p align="center"><img width="180" height="143" alt="YokiaParade_Game_title" src="https://github.com/user-attachments/assets/8eda2beb-a0ae-4934-9ee0-93c011b14647" /></p> | 📃 [Yokai Parade](https://github.com/TomGrzembke/yokai-parade)| 2D Platformer | Godot, GDScript, GLSL |
-| <p align="center"><img width="180" height="240" alt="FlipperCover1" src="https://github.com/user-attachments/assets/c265370c-dfe8-4432-bee1-7d3c19a5b3af" /></p> | 📃 [Qinu](https://github.com/TomGrzembke/Qinu)| 2D Air-Hockey RPG | Unity, C# | 
+| <p align="center"><img width="250" height="116" alt="Zugzwang_MainMenuBanner" src="https://github.com/user-attachments/assets/4c6c01c1-8e1f-46d5-9b7c-cbdd31c2d467" /></p>| 🔎 [Zugzwang](https://github.com/TomGrzembke/ZugZwang)| 3D Mobile Chess-Swiper | Unity, C# |
+| <p align="center"><img width="180" height="143" alt="YokiaParade_Game_title" src="https://github.com/user-attachments/assets/8eda2beb-a0ae-4934-9ee0-93c011b14647" /></p> | 🔎 [Yokai Parade](https://github.com/TomGrzembke/yokai-parade)| 2D Platformer | Godot, GDScript, GLSL |
+| <p align="center"><img width="180" height="240" alt="FlipperCover1" src="https://github.com/user-attachments/assets/c265370c-dfe8-4432-bee1-7d3c19a5b3af" /></p> | 🔎 [Qinu](https://github.com/TomGrzembke/Qinu)| 2D Air-Hockey RPG | Unity, C# | 
 | <p align="center"><img width="210" height="210" alt="Game_Icon copy" src="https://github.com/user-attachments/assets/329654dc-ffb5-47dc-8471-9935bcacfe3b" /></p> | 🎮 [DystOcean](https://tom-grzembke.itch.io/dystocean)| 2D Deepsea Adventure | Unity, C# |
 | <p align="center"><img width="250" height="240" alt="CistronIcon" src="https://github.com/user-attachments/assets/b4d527b6-1c4f-4281-9127-9111c75df7f3" /></p>| 🎮 [Project: CISTRON](https://blue-grapes-studios.itch.io/project-cistron) | 3D Third Person Puzzle | Unity, C# |
 | <p align="center"><img width="250" height="235" alt="keian_portrait" src="https://github.com/user-attachments/assets/a354debc-9832-44d3-b4b3-64f32e03b072" /></p>| 🎮 [Luminosity](https://sillysealstudio.itch.io/luminosity)| 2D Topdown RPG | Unity, C# |
-| <p align="center"><img width="250" height="101" alt="SealloffelLogo" src="https://github.com/user-attachments/assets/94d010b0-727b-4409-9901-bbaa9a7098ba" /></p>| 📃 [Just A Spoonful](https://github.com/TomGrzembke/JustASpoonful)| 2D Hidden Object | Unity, C# |
+| <p align="center"><img width="250" height="101" alt="SealloffelLogo" src="https://github.com/user-attachments/assets/94d010b0-727b-4409-9901-bbaa9a7098ba" /></p>| 🔎 [Just A Spoonful](https://github.com/TomGrzembke/JustASpoonful)| 2D Hidden Object | Unity, C# |
 
 
 </div>
