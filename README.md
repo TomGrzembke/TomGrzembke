@@ -4,7 +4,7 @@ Hey, Thanks for stopping by!
 - Majored in Game Design at [Design Schule Schwerin](https://designschule.de/).
 #
 
-Click on the Project Page links for a deep dive into my tasks in the games featured^^ 
+Click on Page links with a 🔎 to get a deep dive into my tasks and the game's features. 
 <div align="center">
   
 | Icon | Project Page | Genre | Tools |
