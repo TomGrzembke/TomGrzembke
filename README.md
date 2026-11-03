@@ -16,7 +16,7 @@ Hey, Thanks for stopping by!
 
 Tetromino Preview System (Light Blue) 
 
-<img width="375" height="499" alt="TetrominoPreviewSystem" src="https://github.com/user-attachments/assets/9d3fbbba-1198-4787-9d38-954de2c80329" />
+<img width="337" height="449" alt="TetrominoPreviewSystem" src="https://github.com/user-attachments/assets/9d3fbbba-1198-4787-9d38-954de2c80329" />
 </div>
 
 ## Projects
