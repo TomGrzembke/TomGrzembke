@@ -8,10 +8,12 @@ Hey, Thanks for stopping by!
 <div align="center">
 60FPS HD 2D Rigged vs 12 FPS (Adjustable) Pixelartshader Converted Plant Idle Animation. (Engine: Unity)
 
-|
+  |
+
+<img width="337" height="359" alt="PlantHD" src="https://github.com/user-attachments/assets/337300ca-de6d-4fb7-a08f-b86bce982fea" />
+<img width="359" height="359" alt="Plant12FPS" src="https://github.com/user-attachments/assets/23fc638a-e02d-44c1-911c-845c869fb88b" />
 </div>
-<img width="482" height="513" alt="PlantHD" src="https://github.com/user-attachments/assets/337300ca-de6d-4fb7-a08f-b86bce982fea" />
-<img width="513" height="513" alt="Plant12FPS" src="https://github.com/user-attachments/assets/23fc638a-e02d-44c1-911c-845c869fb88b" />
+
 
 
 ## Projects
