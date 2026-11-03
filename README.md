@@ -4,6 +4,11 @@ Hey, Thanks for stopping by!
 - Majored in Game Design at [Design Schule Schwerin](https://designschule.de/).
 #
 
+## Highlight
+<img width="513" height="513" alt="PlantIdle" src="https://github.com/user-attachments/assets/4b8f889a-91e2-4723-91bb-b54dc8ece1a1" />
+
+
+
 Click on Page links with a 🔎 to get a deep dive into my tasks and the game's features. 
 <div align="center">
   
