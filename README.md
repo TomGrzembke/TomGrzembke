@@ -5,7 +5,7 @@ Hey, Thanks for stopping by!
 
 ## Highlights
 <div align="center">
-60FPS HD 2D Rigged vs 12 FPS (Adjustable) Pixelartshader Converted Plant Idle Animation. (Engine: Unity)
+60FPS HD 2D Rigged vs 12 FPS (Adjustable) Pixelartshader Plant Idle Animation. (Engine: Unity)
 
   |
 
