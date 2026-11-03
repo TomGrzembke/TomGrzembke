@@ -14,7 +14,7 @@ Hey, Thanks for stopping by!
 
 #
 
-Tetromino Preview System (Light Blue) 
+Tetromino Preview System (Light Blue) Game: Nordic Towers 
 
 <img width="337" height="449" alt="TetrominoPreviewSystem" src="https://github.com/user-attachments/assets/9d3fbbba-1198-4787-9d38-954de2c80329" />
 </div>
