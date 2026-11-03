@@ -3,7 +3,7 @@ Hey, Thanks for stopping by!
 - Majored in Game Engineering at [S4G School for Games](https://www.school4games.net/).
 - Majored in Game Design at [Design Schule Schwerin](https://designschule.de/).
 
-## Highlight
+## Highlights
 <div align="center">
 60FPS HD 2D Rigged vs 12 FPS (Adjustable) Pixelartshader Converted Plant Idle Animation. (Engine: Unity)
 
@@ -13,6 +13,8 @@ Hey, Thanks for stopping by!
 <img width="359" height="359" alt="Plant12FPS" src="https://github.com/user-attachments/assets/23fc638a-e02d-44c1-911c-845c869fb88b" />
 </div>
 
+Tetromino Preview System (Light Blue) 
+<img width="536" height="713" alt="TetrominoPreviewSystem" src="https://github.com/user-attachments/assets/9d3fbbba-1198-4787-9d38-954de2c80329" />
 
 
 ## Projects
