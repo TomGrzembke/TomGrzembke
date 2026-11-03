@@ -2,7 +2,6 @@ Hey, Thanks for stopping by!
 # Game Engineering Generalist
 - Majored in Game Engineering at [S4G School for Games](https://www.school4games.net/).
 - Majored in Game Design at [Design Schule Schwerin](https://designschule.de/).
-#
 
 ## Highlight
 <div align="center">
