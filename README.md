@@ -11,11 +11,13 @@ Hey, Thanks for stopping by!
 
 <img width="337" height="359" alt="PlantHD" src="https://github.com/user-attachments/assets/337300ca-de6d-4fb7-a08f-b86bce982fea" />
 <img width="359" height="359" alt="Plant12FPS" src="https://github.com/user-attachments/assets/23fc638a-e02d-44c1-911c-845c869fb88b" />
-</div>
+
+#
 
 Tetromino Preview System (Light Blue) 
-<img width="536" height="713" alt="TetrominoPreviewSystem" src="https://github.com/user-attachments/assets/9d3fbbba-1198-4787-9d38-954de2c80329" />
 
+<img width="375" height="499" alt="TetrominoPreviewSystem" src="https://github.com/user-attachments/assets/9d3fbbba-1198-4787-9d38-954de2c80329" />
+</div>
 
 ## Projects
 Click on Page links with a 🔎 to get a deep dive into my tasks and the game's features. 
