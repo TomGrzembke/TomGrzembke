@@ -10,8 +10,9 @@ Hey, Thanks for stopping by!
 
 |
 </div>
-<img width="482" height="513" alt="PlantIdleHDCropped" src="https://github.com/user-attachments/assets/337300ca-de6d-4fb7-a08f-b86bce982fea" />
-<img width="513" height="513" alt="PlantIdle" src="https://github.com/user-attachments/assets/4b8f889a-91e2-4723-91bb-b54dc8ece1a1" />
+<img width="482" height="513" alt="PlantHD" src="https://github.com/user-attachments/assets/337300ca-de6d-4fb7-a08f-b86bce982fea" />
+<img width="513" height="513" alt="Plant12FPS" src="https://github.com/user-attachments/assets/23fc638a-e02d-44c1-911c-845c869fb88b" />
+
 
 ## Projects
 Click on Page links with a 🔎 to get a deep dive into my tasks and the game's features. 
